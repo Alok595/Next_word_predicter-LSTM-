@@ -8,8 +8,7 @@ build/
 .vscode/
 
 # ML files
-*.h5
-*.pkl
+
 
 # Env
 .env
