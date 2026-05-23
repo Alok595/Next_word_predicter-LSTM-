@@ -1,0 +1,15 @@
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+.vscode/
+
+# ML files
+*.h5
+*.pkl
+
+# Env
+.env
